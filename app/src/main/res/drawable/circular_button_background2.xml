@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- Warna putih -->
+    <corners android:radius="28dp" /> <!-- Membuat bentuk lingkaran -->
+    <elevation android:shadowColor="#000000" android:elevation="4dp" />
+</shape>

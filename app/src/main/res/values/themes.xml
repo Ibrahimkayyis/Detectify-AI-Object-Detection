@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.Material3.Light.NoActionBar">
+
+        <!-- Customize your light theme here. -->
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="colorPrimary">#377DFF</item>
+        <item name="colorPrimaryContainer">#D9E7FF</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+
+</resources>
